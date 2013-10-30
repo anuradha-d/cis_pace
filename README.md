@@ -1,4 +1,4 @@
-cis_pace
+pace-cis
 ========
 
 Automatic page load progress bar.
@@ -16,7 +16,7 @@ You need to add sudo if you are not using rvm(ruby version manager)
 
 Add this following line in your Gemfile.
 <pre>
-gem 'cis_pace'
+gem 'pace-cis'
 </pre>
 
 Then run,

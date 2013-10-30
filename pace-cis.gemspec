@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
-  s.name        = 'cis_pace'
-  s.version     = '0.0.0'
+  s.name        = 'pace-cis'
+  s.version     = '0.0.1'
   s.date        = '2010-10-29'
-  s.summary     = "Automatic page load progress bar"
+  s.summary     = "Automatic page load progress bar .Include pace.js and a CSS theme of your choice, and you get a beautiful progress indicator for your page load and ajax navigation. No need to hook into any of your code, progress is detected automatically."
   s.description = "Automatic page load progress bar"
   s.authors     = ["Anuradha"]
   s.email       = 'anuradha.d@cisinlabs.com'
   s.files       = Dir["{lib,app}/**/*", "[A-Z]*"]
-  s.homepage    = 'http://rubygems.org/gems/cis_pace'
+  s.homepage    = 'http://rubygems.org/gems/pace-cis'
   s.require_paths = ["lib"]  
 
   s.license       = 'MIT'

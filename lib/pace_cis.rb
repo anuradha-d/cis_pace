@@ -1,9 +1,9 @@
-module CisPace
+module PaceCis
 end
 
 
 
-module CisPace
+module PaceCis
   module Rails
     class Engine < ::Rails::Engine
     end
