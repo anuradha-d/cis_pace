@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'pace-cis'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.date        = '2010-10-29'
   s.summary     = "Automatic page load progress bar .Include pace.js and a CSS theme of your choice, and you get a beautiful progress indicator for your page load and ajax navigation. No need to hook into any of your code, progress is detected automatically."
   s.description = "Automatic page load progress bar"
