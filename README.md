@@ -35,15 +35,8 @@ If your working in Rails version >= 3 then just run the below command
 
 Running the above command will insert the required things into your js and css files the default css it include is the "pace-theme-corner-indicator" if you want to change it as per your projects requirement then other options are shown below.
 
-But if you are using Rails version <=2 then go for the below steps
 
-Then you need to add the following line on your application.js
-
-```
-  //= require pace
-```
-
-Then add the required line in application.css
+The other css options available to add in your application.css are as follows
 
 ```
   *= require pace-theme-big-counter
